@@ -1,5 +1,5 @@
 ---
-title: Einführung in JavaScript
+title: Einführung in JavaScript (JS)
 author: Martin Kocur
 documentclass: scrartcl
 classoption:
@@ -28,11 +28,11 @@ header-includes: |
 
 ## Aufgabe 1: JS Grundlagen Mozilla Developer Guides
 
-Absolvieren Sie das Tutorial "What is Javascript" der _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript.
+Absolvieren Sie das Tutorial "What is JavaScript" der _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript.
 
 ## Aufgabe 2: Einfache Rechenoperationen in JS
 
-Erstellen Sie eine HTML-Datei und binden Sie eine externe JavaScript-Datei ein.
+Erstellen Sie eine HTML-Datei und binden Sie eine externe JS-Datei ein.
 
 Lösen Sie mit Hilfe von JS folgende Aufgaben und implementieren Sie dafür folgende Funktionen (pro Aufgabe eine Funktion):
 
@@ -43,7 +43,7 @@ Lösen Sie mit Hilfe von JS folgende Aufgaben und implementieren Sie dafür folg
 - eine Funktion, die Grad Celsius in Grad Fahrenheit umwandelt und umgekehrt.
 - eine Funktion, die die Summe beliebig vieler Zahlen (übergeben als Liste) berechnet.
 - eine Funktion, die alle geraden Zahlen zwischen zwei als Parameter übergebenen Zahlen auf die Konsole ausgibt.
-- eine Funktion, welche die Liste „Javascript“, „Python“, „Webtechnologien“, „DH“ alphabetisch in aufsteigender Reihenfolge sortiert.
+- eine Funktion, welche die Liste „JavaScript“, „Python“, „Webtechnologien“, „DH“ alphabetisch in aufsteigender Reihenfolge sortiert.
 - eine Funktion, die Anfangsbuchstaben eines Satzes großschreibt.
 - eine Funktion, die einen beliebigen Satz auf dem Screen anzeigt.
 
