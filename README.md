@@ -30,7 +30,7 @@ header-includes: |
 
 Absolvieren Sie das Tutorial "What is Javascript" der _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript.
 
-## Aufgabe 2: Einfache Rechenoperation in JS
+## Aufgabe 2: Einfache Rechenoperationen in JS
 
 Erstellen Sie eine HTML-Datei und binden Sie eine externe JavaScript-Datei ein.
 
