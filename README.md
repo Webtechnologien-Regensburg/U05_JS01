@@ -1,6 +1,6 @@
 ---
 title: Einführung in JavaScript (JS)
-author: Martin Kocur
+author: Jakob Fehle
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -30,7 +30,7 @@ header-includes: |
 
 Absolvieren Sie das Tutorial "What is JavaScript" der _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript.
 
-## Aufgabe 2: Einfache Rechenoperationen in JS
+## Aufgabe 2: Einfache Operationen in JS
 
 Erstellen Sie eine HTML-Datei und binden Sie eine externe JS-Datei ein.
 
@@ -55,13 +55,13 @@ Die Ergebnisse Ihrer Funktionen können Sie auf der Konsole ausgeben (außer fü
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 08.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 20.05.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 2: Ihre HTML- und JS-Datei
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS20_5_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS21_5_Max_Mustermann.zip**
 
