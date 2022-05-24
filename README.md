@@ -1,6 +1,6 @@
 ---
 title: Einführung in JavaScript (JS)
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
