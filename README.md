@@ -55,13 +55,13 @@ Die Ergebnisse Ihrer Funktionen können Sie auf der Konsole ausgeben (außer fü
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 20.05.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 30.05.2022 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 2: Ihre HTML- und JS-Datei
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS21_5_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_5_Max_Mustermann.zip**
 
